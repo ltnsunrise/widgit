@@ -1,1 +1,5 @@
+This is the configuration file for the Widgit project. 
+Please update the settings below according to your environment and requirements. 
+You can specify environment variables, API keys, or other configuration options here. 
+Make sure to keep this file secure and do not share sensitive
 
